@@ -1,0 +1,10 @@
+.a-rights{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightgrey;
+    font-size: 12px;
+    position: fixed;
+    width: 89%;
+    bottom: 0;
+}
